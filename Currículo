@@ -1,0 +1,31 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+	<meta chartset="UTF-8">
+	<title>Thays Liane Ribeiro Barbosa HTML</title>
+</head>
+<body>
+	<h1>Thays Liane Ribeiro Barbosa</h1>
+<hr>
+
+<p>brasileira, 29 anos
+<b>tel:</b> (85) 9999-9999 <b>e-mail:</b> tlrb@html.com</p>
+
+
+<section><h2>Escolaridade</h2></section>
+<hr>
+<ol>Técnico em informática (andamento) - Cruzeiro do Sul Virtual</ol>
+
+<section><h2>Experiência profissional</h2></section>
+<hr>
+<ol>Auxiliar administrativo - Instituto de Saúde e Gestão Hospitalar ISGH (2022/atualmente)</ol>
+<ol>Atendente Level 1 - Concentrix Brasil (2019-2022)</ol>
+
+<section><h2>Habilidades</h2></section>
+<hr>
+<ol>Inglês básico</ol>
+<ol>Excel básico</ol>
+<ol>Rotinas administrativas</ol>
+
+
+
